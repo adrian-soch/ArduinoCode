@@ -1,4 +1,4 @@
 # ArduinoCode
 
-Some simple arduino codes for little mini projects I created.
+Some simple arduino codes for mini projects.
 A work in progress.
